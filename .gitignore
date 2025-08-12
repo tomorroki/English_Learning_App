@@ -1,0 +1,39 @@
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller関連
+build/
+dist/
+*.spec
+
+# 設定ファイル
+integrated_config.json
+*.sqlite3
+*.db
+
+# 一時ファイル
+temp_speech.mp3
+error_log.txt
+
+# IDE設定
+.vscode/
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows関連
+*.lnk
